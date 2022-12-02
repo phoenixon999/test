@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <img id="iniad" src="https://iniad-bucket-wp.storage.googleapis.com/digipress/voyageur/title/iniad-logo-w.png" alt="INIAD logo">
+    <title>INIAD オープンキャンパス特設サイト(偽)</title>
+    <link rel="stylesheet" type="text/css" href="css/iniad.css">
+  </head>
+
+  <body>
+    <img id="iniad-univ" src="https://lh3.googleusercontent.com/nNrUoUPXwvqAaIdz56OL0aIFMKA0WEU-6NkD8Wv6qLVm3_2yZU75SBYHqeImV1y0kC3nRgvErV9cLGgzHSRlK_wccfAtSw=s1680" alt="INIAD UNIV">
+    <h1><span class="iniad">INIAD</span> オープンキャンパス</h1>
+    <p>2017年9月9日に、<span class="iniad">INIAD</span>のオープンキャンパスを開催します。ふるってご参加ください。</p>
+    <ul>
+      <li><b>日時:</b> 2017年9月9日（土） 11時〜15時</li>
+      <li><b>場所:</b> <a href="https://www.google.com/maps/dir/%E6%9D%B1%E6%B4%8B%E5%A4%A7%E5%AD%A6+%E6%83%85%E5%A0%B1%E9%80%A3%E6%90%BA%E5%AD%A6%E9%83%A8+(INIAD)%E3%80%81%E3%80%92115-8650+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%E8%B5%A4%E7%BE%BD%E5%8F%B0%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%91/iniad/@35.7803587,139.713357,17z/data=!4m13!4m12!1m5!1m1!1s0x6018931934050759:0x239ff01917c6ae5a!2m2!1d139.7155463!2d35.7802941!1m5!1m1!1s0x6018931934050759:0x239ff01917c6ae5a!2m2!1d139.7155463!2d35.7802941">東洋大学赤羽台キャンパス</a></li>
+       <img id="iniad-univ" src="https://lh3.googleusercontent.com/nNrUoUPXwvqAaIdz56OL0aIFMKA0WEU-6NkD8Wv6qLVm3_2yZU75SBYHqeImV1y0kC3nRgvErV9cLGgzHSRlK_wccfAtSw=s1680" alt="INIAD UNIV">
+    </ul>
+    <h2>スケジュール</h2>
+    <div id="schedule">
+      <h3>学びを知ろう</h3>
+      <ul id="schedule-learning">
+        <li><span class="time">11:00〜12:00</span> 学部全体説明</li>
+        <li><span class="time">12:40〜14:50</span> コース別説明</li>
+        <li><span class="time">11:30〜15:00</span> コース別個別相談(随時)</li>
+      </ul>
+
+      <h3>入試を知ろう</h3>
+      <ul id="schedule-exam">
+        <li><span class="time">13:35〜13:55</span> 入試説明</li>
+        <li><span class="time">11:30〜15:00</span> 入試個別相談(随時)</li>
+      </ul>
+    </div>
+    <h2>INIADとは？</h2>
+    <ul>
+      <li><a href="concept.html">INIADのコンセプト</a></li>
+      <li><a href="courses.html">4つのコース</a></li>
+    </ul>
+  </body>
+</html>
